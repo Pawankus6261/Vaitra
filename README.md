@@ -82,7 +82,3 @@ vaitra-hospital/
 ## 📃 License
 
 This project is licensed under the MIT License — feel free to modify and improve.
-
----
-
-**Note:** Don’t forget to replace `your-username` with `Pawankus6261` in GitHub links.
